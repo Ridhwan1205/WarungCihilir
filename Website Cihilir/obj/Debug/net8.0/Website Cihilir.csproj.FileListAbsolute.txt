@@ -28,3 +28,4 @@ C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\
 C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.pdb
 C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.genruntimeconfig.cache
 C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\ref\Website Cihilir.dll
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.sourcelink.json
