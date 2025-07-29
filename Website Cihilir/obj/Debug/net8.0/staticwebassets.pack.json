@@ -1,0 +1,1721 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Website Cihilir.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Website Cihilir.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\audio\\blog-audio.mp3",
+      "PackagePath": "staticwebassets\\css\\audio\\blog-audio.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\color\\color-1.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-1.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\color\\color-10.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-10.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\color\\color-11.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-11.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\color\\color-2.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-2.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\color\\color-3.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-3.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\color\\color-4.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\color\\color-5.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-5.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\color\\color-6.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-6.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\color\\color-7.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-7.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\color\\color-8.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-8.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\color\\color-9.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-9.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\color\\skin-default.css",
+      "PackagePath": "staticwebassets\\css\\color\\skin-default.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\core.css",
+      "PackagePath": "staticwebassets\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\default.css",
+      "PackagePath": "staticwebassets\\css\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\about\\about.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\about\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\about\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\about\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\about\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\about\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\about\\home-about.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\about\\home-about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\about\\team.png",
+      "PackagePath": "staticwebassets\\css\\images\\about\\team.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\about\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\about\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\about\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\about\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\about\\team\\team.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\about\\team\\team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\about\\team\\testi-big1-630x764.png",
+      "PackagePath": "staticwebassets\\css\\images\\about\\team\\testi-big1-630x764.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\css\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\bg\\breadcrubs.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\bg\\breadcrubs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\bg\\fun-factor.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\bg\\fun-factor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\bg\\pattern.png",
+      "PackagePath": "staticwebassets\\css\\images\\bg\\pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\bg\\reserv-bg.png",
+      "PackagePath": "staticwebassets\\css\\images\\bg\\reserv-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\bg\\reserv-form-bg.png",
+      "PackagePath": "staticwebassets\\css\\images\\bg\\reserv-form-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\bg\\vegetable.png",
+      "PackagePath": "staticwebassets\\css\\images\\bg\\vegetable.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\bg\\video-bg.png",
+      "PackagePath": "staticwebassets\\css\\images\\bg\\video-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\10.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\11.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\12.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\7.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\8.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\9.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\blog-bg-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\blog-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\blog-bg-2.png",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\blog-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\blog-comment-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\blog-comment-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\blog-comment-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\blog-comment-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\blog-details-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\blog-details-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\blog-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\blog-manager.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\blog-manager.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\cheap-quote.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\cheap-quote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\recent-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\recent-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\recent-3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\blog\\sidebar-video.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\blog\\sidebar-video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\choose\\choose.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\choose\\choose.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\choose\\chose-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\choose\\chose-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\common\\contact-page.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\common\\contact-page.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\common\\reserv-sub.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\common\\reserv-sub.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\common\\reserv.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\common\\reserv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-10.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-11.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-12.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-13.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-14.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-15.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-16.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-6.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-7.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-8.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\bodybg\\bg-9.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\bodybg\\bg-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\pattern\\1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\pattern\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\pattern\\2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\pattern\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\pattern\\3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\pattern\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\pattern\\4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\pattern\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\pattern\\5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\pattern\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\pattern\\6.png",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\pattern\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\pattern\\7.png",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\pattern\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\pattern\\pattern-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\pattern\\pattern-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\customizer\\pattern\\pattern-2.png",
+      "PackagePath": "staticwebassets\\css\\images\\customizer\\pattern\\pattern-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\dish\\1.png",
+      "PackagePath": "staticwebassets\\css\\images\\dish\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\dish\\2.png",
+      "PackagePath": "staticwebassets\\css\\images\\dish\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\dish\\3.png",
+      "PackagePath": "staticwebassets\\css\\images\\dish\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\dish\\bg-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\dish\\bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\dish\\bg-2.png",
+      "PackagePath": "staticwebassets\\css\\images\\dish\\bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\01.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\2.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\3.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\4.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\5.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\6.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\7.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\8.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\bg-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\bg-2.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-item2\\1.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-item2\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-item2\\2.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-item2\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-item2\\3.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-item2\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-item2\\4.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-item2\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-item2\\5.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-item2\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-item2\\6.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-item2\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-menu\\bg-2.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-menu\\bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-menu\\bg-3.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-menu\\bg-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-menu\\bg.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-menu\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-tem3\\1.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-tem3\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-tem3\\2.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-tem3\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-tem3\\3.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-tem3\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-tem3\\4.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-tem3\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-tem3\\5.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-tem3\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\food\\food-tem3\\6.png",
+      "PackagePath": "staticwebassets\\css\\images\\food\\food-tem3\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\bg-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\bg-2.png",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\gallery-2\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\gallery-2\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\gallery-2\\bg-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\gallery-2\\bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\gallery-2\\bg-2.png",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\gallery-2\\bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\gallery-2\\g-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\gallery-2\\g-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\gallery-2\\g-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\gallery-2\\g-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\gallery-2\\g-3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\gallery-2\\g-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\gallery-2\\g-4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\gallery-2\\g-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\gallery-2\\g-5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\gallery-2\\g-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\gallery-2\\g-6.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\gallery-2\\g-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\gallery-2\\g-7.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\gallery-2\\g-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\gallery-2\\g-8.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\gallery-2\\g-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\gallery\\gallery-2\\g-9.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\gallery\\gallery-2\\g-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\icons\\border.png",
+      "PackagePath": "staticwebassets\\css\\images\\icons\\border.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\icons\\grid.png",
+      "PackagePath": "staticwebassets\\css\\images\\icons\\grid.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\icons\\map-marker.png",
+      "PackagePath": "staticwebassets\\css\\images\\icons\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\icons\\title-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\icons\\title-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\icons\\title.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\icons\\title.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\icons\\title.png",
+      "PackagePath": "staticwebassets\\css\\images\\icons\\title.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\instagram\\1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\instagram\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\instagram\\2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\instagram\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\instagram\\3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\instagram\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\instagram\\4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\instagram\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\instagram\\5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\instagram\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\instagram\\6.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\instagram\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\logo\\Logo-warung.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\logo\\Logo-warung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\logo\\team-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo\\team-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\logo\\team-2.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo\\team-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\logo\\team-3.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo\\team-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\logo\\team-4.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo\\team-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\testimonial\\1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\testimonial\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\testimonial\\2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\testimonial\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\testimonial\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\testimonial\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\images\\testimonial\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\testimonial\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\plugins\\animated-headlines.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\animated-headlines.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\plugins\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\plugins\\jquery.mb.YTPlayer.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\jquery.mb.YTPlayer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\plugins\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\plugins\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\plugins\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\meanmenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\plugins\\nivo-slider.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\nivo-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\plugins\\slick.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\about\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\about\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\about\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\about\\home-about.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\home-about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\about\\team.png",
+      "PackagePath": "staticwebassets\\images\\about\\team.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\about\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\about\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\about\\team\\team.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\team\\team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\about\\team\\testi-big1-630x764.png",
+      "PackagePath": "staticwebassets\\images\\about\\team\\testi-big1-630x764.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\bg\\breadcrubs.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\breadcrubs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\bg\\fun-factor.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\fun-factor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\bg\\pattern.png",
+      "PackagePath": "staticwebassets\\images\\bg\\pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\bg\\reserv-bg.png",
+      "PackagePath": "staticwebassets\\images\\bg\\reserv-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\bg\\reserv-form-bg.png",
+      "PackagePath": "staticwebassets\\images\\bg\\reserv-form-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\bg\\vegetable.png",
+      "PackagePath": "staticwebassets\\images\\bg\\vegetable.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\bg\\video-bg.png",
+      "PackagePath": "staticwebassets\\images\\bg\\video-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\blog-bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\blog-bg-2.png",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\blog-comment-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-comment-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\blog-comment-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-comment-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\blog-details-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-details-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\blog-manager.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-manager.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\cheap-quote.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\cheap-quote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\recent-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\recent-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\recent-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\blog\\sidebar-video.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sidebar-video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\choose\\choose.jpg",
+      "PackagePath": "staticwebassets\\images\\choose\\choose.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\choose\\chose-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\choose\\chose-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\common\\contact-page.jpg",
+      "PackagePath": "staticwebassets\\images\\common\\contact-page.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\common\\reserv-sub.jpg",
+      "PackagePath": "staticwebassets\\images\\common\\reserv-sub.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\common\\reserv.jpg",
+      "PackagePath": "staticwebassets\\images\\common\\reserv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-10.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-11.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-12.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-13.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-14.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-15.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-16.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-5.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-6.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-7.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-8.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\bodybg\\bg-9.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\bodybg\\bg-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\pattern\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\pattern\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\pattern\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\pattern\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\pattern\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\pattern\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\pattern\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\pattern\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\pattern\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\customizer\\pattern\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\pattern\\6.png",
+      "PackagePath": "staticwebassets\\images\\customizer\\pattern\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\pattern\\7.png",
+      "PackagePath": "staticwebassets\\images\\customizer\\pattern\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\pattern\\pattern-1.png",
+      "PackagePath": "staticwebassets\\images\\customizer\\pattern\\pattern-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\customizer\\pattern\\pattern-2.png",
+      "PackagePath": "staticwebassets\\images\\customizer\\pattern\\pattern-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\dish\\1.png",
+      "PackagePath": "staticwebassets\\images\\dish\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\dish\\2.png",
+      "PackagePath": "staticwebassets\\images\\dish\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\dish\\3.png",
+      "PackagePath": "staticwebassets\\images\\dish\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\dish\\bg-1.png",
+      "PackagePath": "staticwebassets\\images\\dish\\bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\dish\\bg-2.png",
+      "PackagePath": "staticwebassets\\images\\dish\\bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\01.png",
+      "PackagePath": "staticwebassets\\images\\food\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\2.png",
+      "PackagePath": "staticwebassets\\images\\food\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\3.png",
+      "PackagePath": "staticwebassets\\images\\food\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\4.png",
+      "PackagePath": "staticwebassets\\images\\food\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\5.png",
+      "PackagePath": "staticwebassets\\images\\food\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\6.png",
+      "PackagePath": "staticwebassets\\images\\food\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\7.png",
+      "PackagePath": "staticwebassets\\images\\food\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\8.png",
+      "PackagePath": "staticwebassets\\images\\food\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\bg-1.png",
+      "PackagePath": "staticwebassets\\images\\food\\bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\bg-2.png",
+      "PackagePath": "staticwebassets\\images\\food\\bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-item2\\1.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-item2\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-item2\\2.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-item2\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-item2\\3.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-item2\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-item2\\4.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-item2\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-item2\\5.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-item2\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-item2\\6.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-item2\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-menu\\bg-2.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-menu\\bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-menu\\bg-3.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-menu\\bg-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-menu\\bg.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-menu\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-tem3\\1.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-tem3\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-tem3\\2.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-tem3\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-tem3\\3.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-tem3\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-tem3\\4.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-tem3\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-tem3\\5.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-tem3\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\food\\food-tem3\\6.png",
+      "PackagePath": "staticwebassets\\images\\food\\food-tem3\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\bg-1.png",
+      "PackagePath": "staticwebassets\\images\\gallery\\bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\bg-2.png",
+      "PackagePath": "staticwebassets\\images\\gallery\\bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\gallery-2\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\gallery-2\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\gallery-2\\bg-1.png",
+      "PackagePath": "staticwebassets\\images\\gallery\\gallery-2\\bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\gallery-2\\bg-2.png",
+      "PackagePath": "staticwebassets\\images\\gallery\\gallery-2\\bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\gallery-2\\g-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\gallery-2\\g-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\gallery-2\\g-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\gallery-2\\g-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\gallery-2\\g-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\gallery-2\\g-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\gallery-2\\g-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\gallery-2\\g-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\gallery-2\\g-5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\gallery-2\\g-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\gallery-2\\g-6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\gallery-2\\g-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\gallery-2\\g-7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\gallery-2\\g-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\gallery-2\\g-8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\gallery-2\\g-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\gallery\\gallery-2\\g-9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\gallery-2\\g-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\icons\\border.png",
+      "PackagePath": "staticwebassets\\images\\icons\\border.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\icons\\grid.png",
+      "PackagePath": "staticwebassets\\images\\icons\\grid.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\icons\\map-marker.png",
+      "PackagePath": "staticwebassets\\images\\icons\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\icons\\title-2.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\title-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\icons\\title.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\title.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\icons\\title.png",
+      "PackagePath": "staticwebassets\\images\\icons\\title.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\instagram\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\instagram\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\instagram\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\instagram\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\instagram\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\instagram\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\logo\\Logo-warung.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\Logo-warung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\logo\\team-1.png",
+      "PackagePath": "staticwebassets\\images\\logo\\team-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\logo\\team-2.png",
+      "PackagePath": "staticwebassets\\images\\logo\\team-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\logo\\team-3.png",
+      "PackagePath": "staticwebassets\\images\\logo\\team-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\logo\\team-4.png",
+      "PackagePath": "staticwebassets\\images\\logo\\team-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\slider\\1.png",
+      "PackagePath": "staticwebassets\\images\\slider\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\testimonial\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\testimonial\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\testimonial\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\images\\testimonial\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\animated-headlines.js",
+      "PackagePath": "staticwebassets\\js\\animated-headlines.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\jquery.collapse.js",
+      "PackagePath": "staticwebassets\\js\\jquery.collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\jquery.nivo.slider.pack.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nivo.slider.pack.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\map.js",
+      "PackagePath": "staticwebassets\\js\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\vendor\\jquery-1.12.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-responsive.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\css\\documenter_style.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\documenter_style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Website Cihilir.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Website Cihilir.props",
+      "PackagePath": "build\\Website Cihilir.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Website Cihilir.props",
+      "PackagePath": "buildMultiTargeting\\Website Cihilir.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Website Cihilir.props",
+      "PackagePath": "buildTransitive\\Website Cihilir.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

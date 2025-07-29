@@ -1,0 +1,30 @@
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\bin\Debug\net8.0\appsettings.json
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\bin\Debug\net8.0\Website Cihilir.staticwebassets.runtime.json
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\bin\Debug\net8.0\Website Cihilir.exe
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\bin\Debug\net8.0\Website Cihilir.deps.json
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\bin\Debug\net8.0\Website Cihilir.runtimeconfig.json
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\bin\Debug\net8.0\Website Cihilir.dll
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\bin\Debug\net8.0\Website Cihilir.pdb
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.AssemblyInfoInputs.cache
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.AssemblyInfo.cs
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.csproj.CoreCompileInputs.cache
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.RazorAssemblyInfo.cache
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.RazorAssemblyInfo.cs
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\staticwebassets\msbuild.Website Cihilir.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\staticwebassets\msbuild.build.Website Cihilir.props
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Website Cihilir.props
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Website Cihilir.props
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\scopedcss\bundle\Website Cihilir.styles.css
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\scopedcss\projectbundle\Website Cihilir.bundle.scp.css
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.dll
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\refint\Website Cihilir.dll
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.pdb
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\Website Cihilir.genruntimeconfig.cache
+C:\Users\Ridhwan\Desktop\Ridhwan\Project\Web\FE\Website Cihilir\Website Cihilir\obj\Debug\net8.0\ref\Website Cihilir.dll

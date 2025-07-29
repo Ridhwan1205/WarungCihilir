@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZK9srxbGuRQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ridhwan\\Desktop\\Ridhwan\\Project\\Web\\FE\\Website Cihilir\\Website Cihilir\\Website Cihilir.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.51.243:90/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

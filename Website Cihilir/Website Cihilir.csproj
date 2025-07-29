@@ -1,0 +1,84 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Website_Cihilir</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\404.html" />
+    <Content Remove="wwwroot\about-us.html" />
+    <Content Remove="wwwroot\blog-details.html" />
+    <Content Remove="wwwroot\blog.html" />
+    <Content Remove="wwwroot\contact-us.html" />
+    <Content Remove="wwwroot\elements-accordion.html" />
+    <Content Remove="wwwroot\elements-alerts.html" />
+    <Content Remove="wwwroot\elements-audio.html" />
+    <Content Remove="wwwroot\elements-brand.html" />
+    <Content Remove="wwwroot\elements-button.html" />
+    <Content Remove="wwwroot\elements-contact.html" />
+    <Content Remove="wwwroot\elements-food-item-1.html" />
+    <Content Remove="wwwroot\elements-food-item-2.html" />
+    <Content Remove="wwwroot\elements-food-product.html" />
+    <Content Remove="wwwroot\elements-gallery.html" />
+    <Content Remove="wwwroot\elements-map.html" />
+    <Content Remove="wwwroot\elements-no-sticky.html" />
+    <Content Remove="wwwroot\elements-progressbar.html" />
+    <Content Remove="wwwroot\elements-tab.html" />
+    <Content Remove="wwwroot\elements-table.html" />
+    <Content Remove="wwwroot\elements-team.html" />
+    <Content Remove="wwwroot\elements-testimonail.html" />
+    <Content Remove="wwwroot\elements-typhography.html" />
+    <Content Remove="wwwroot\elements-video.html" />
+    <Content Remove="wwwroot\food-menu.html" />
+    <Content Remove="wwwroot\gallery.html" />
+    <Content Remove="wwwroot\index-2.html" />
+    <Content Remove="wwwroot\index-3.html" />
+    <Content Remove="wwwroot\index-4.html" />
+    <Content Remove="wwwroot\index-box-fixed.html" />
+    <Content Remove="wwwroot\index-box.html" />
+    <Content Remove="wwwroot\index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\404.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\404.html" />
+    <None Include="wwwroot\about-us.html" />
+    <None Include="wwwroot\blog-details.html" />
+    <None Include="wwwroot\blog.html" />
+    <None Include="wwwroot\contact-us.html" />
+    <None Include="wwwroot\elements-accordion.html" />
+    <None Include="wwwroot\elements-alerts.html" />
+    <None Include="wwwroot\elements-audio.html" />
+    <None Include="wwwroot\elements-brand.html" />
+    <None Include="wwwroot\elements-button.html" />
+    <None Include="wwwroot\elements-contact.html" />
+    <None Include="wwwroot\elements-food-item-1.html" />
+    <None Include="wwwroot\elements-food-item-2.html" />
+    <None Include="wwwroot\elements-food-product.html" />
+    <None Include="wwwroot\elements-gallery.html" />
+    <None Include="wwwroot\elements-map.html" />
+    <None Include="wwwroot\elements-no-sticky.html" />
+    <None Include="wwwroot\elements-progressbar.html" />
+    <None Include="wwwroot\elements-tab.html" />
+    <None Include="wwwroot\elements-table.html" />
+    <None Include="wwwroot\elements-team.html" />
+    <None Include="wwwroot\elements-testimonail.html" />
+    <None Include="wwwroot\elements-typhography.html" />
+    <None Include="wwwroot\elements-video.html" />
+    <None Include="wwwroot\food-menu.html" />
+    <None Include="wwwroot\gallery.html" />
+    <None Include="wwwroot\index-2.html" />
+    <None Include="wwwroot\index-3.html" />
+    <None Include="wwwroot\index-4.html" />
+    <None Include="wwwroot\index-box-fixed.html" />
+    <None Include="wwwroot\index-box.html" />
+    <None Include="wwwroot\index.html" />
+  </ItemGroup>
+
+</Project>
