@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Website Cihilir")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cb12e48945d4e416fd17349bc49142c6b9e6dda")]
 [assembly: System.Reflection.AssemblyProductAttribute("Website Cihilir")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Website Cihilir")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
